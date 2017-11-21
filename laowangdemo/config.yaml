@@ -1,0 +1,6 @@
+name: laowangdemo
+version: 1
+
+libraries:
+- name: tornado
+  version: "4.5.2"
